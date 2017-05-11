@@ -25,7 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 [Link](http://jsequeiros.com/sites/default/files/imagen-cachorro-comprimir.jpg?1399003306) 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
